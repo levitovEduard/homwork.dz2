@@ -7,6 +7,7 @@
         Console.WriteLine(num);
     }
         {
-            Console.WriteLine("Третьей цифры нет");
+            Console.WriteLine();
         }
  }
+ 
