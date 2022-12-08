@@ -6,8 +6,4 @@
         num %= 10;
         Console.WriteLine(num);
     }
-        {
-            Console.WriteLine();
-        }
- }
- 
+}
